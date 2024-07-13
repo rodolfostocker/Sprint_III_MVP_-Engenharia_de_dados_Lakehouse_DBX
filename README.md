@@ -1,5 +1,4 @@
 # Sprint_III_MVP_-Engenharia_de_dados_Lakehouse_DBX
-Post_DSc &amp; Analytics PUC_Rio
 Ao final deste MVP, esperamos que o usuário final tenha uma compreensão detalhada dos dados das vitórias nas Maratonas de Londres, respondendo às perguntas propostas e fornecendo insights sobre os aspectos relevantes do evento, como recordes, domínio de países e atletas, e a evolução das diferentes categorias ao longo dos anos.
 
 Neste trabalho, eu documentei o processo para  construir um data lakehouse de dados no Databricks Community utilizando tecnologias na nuvem como Microsoft Azure . 
